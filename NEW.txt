@@ -48,11 +48,11 @@ https://aldirect.hls.huya.com/huyalive/1448686695-1448686695-6222061977175326720
 #EXTINF:-1 group-title="收藏",港电影6 (晚上电影)
 https://d1--cn-gotcha03.bilivideo.com/live-bvc//live_2809908_2574327.flv?sigparams=len&len=
 #EXTINF:-1 group-title="收藏",有線電影(測試.不稳定)
-http://hdl0901.plures.net/onlive/0ac306d116317df1fdfc7f7cdaa0da4d.flv
+http://hdl0901.plures.net/onlive/5e1347713992a086d7e7299ce3a13d12.flv
 #EXTINF:-1 group-title="收藏",衛視電影(測試.不稳定)
-http://hdl0901.plures.net/onlive/37901ba1643ef265f87d9f3824e93f2f.flv
+http://hdl0901.plures.net/onlive/85aa5edc43d5933d2f783d549675fd72.flv
 #EXTINF:-1 group-title="收藏",星衛電影(測試.不稳定)
-http://hdl0901.plures.net/onlive/2db99d1367ffca6710218d277ba1d66c.flv
+http://hdl0901.plures.net/onlive/8c05b824e52c92d539848419372b54c2.flv
 #EXTINF:-1 group-title="收藏",美亞電影(測試.不稳定)
 http://hdl0901.plures.net/onlive/12d69a3a4749ad367269e0aa54b58232.flv
 #EXTINF:-1 group-title="收藏",港式国影
