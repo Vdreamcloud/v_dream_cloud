@@ -8,6 +8,8 @@ http://hdl0901.plures.net/onlive/e65e81838bdf45ecbff40bc7318bbf4e.flv
 #EXTINF:-1 group-title="收藏",电-影4
 http://d1--cn-gotcha03.bilivideo.com/live-bvc/live_195404279_88732876.flv?cdn=cn-gotcha04&sigparams=&ptype=2
 #EXTINF:-1 group-title="收藏",电-影5
+https://txpcdn-direct.liveplay.egame.qq.com/live/3954_490905763.flv
+#EXTINF:-1 group-title="收藏",电-影6
 http://tx2play1.douyucdn.cn/live/8030529rrPv17cNH.flv?uuid=
 #EXTINF:-1 group-title="收藏",周口电-影
 http://dlhdl-cdn.zhanqi.tv/zqlive/80918_cr4oy.flv
