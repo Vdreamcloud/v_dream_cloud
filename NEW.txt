@@ -80,6 +80,8 @@ http://lqx866.top/miao/hk123.php?id=6
 #EXTINF:-1 group-title="港台",有線新闻
 http://lqx866.top/miao/hk123.php?id=5
 #EXTINF:-1 group-title="港台",東森新闻
+https://pulljd-live.baijiayun.com/live/9b0ca859bd9f243bfbdc91831a13065c.flv
+#EXTINF:-1 group-title="港台",東森新闻備用
 http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 group-title="港台",中天新闻
 http://192.154.103.75:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
