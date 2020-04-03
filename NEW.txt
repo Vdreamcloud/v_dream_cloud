@@ -14,7 +14,7 @@ http://dlhdl-cdn.zhanqi.tv/zqlive/80918_cr4oy.flv
 #EXTINF:-1 group-title="收藏",国电-影1
 https://txpcdn-direct.liveplay.egame.qq.com/live/3954_157023183.flv
 #EXTINF:-1 group-title="收藏",国电-影2
-https://txpcdn-direct.liveplay.egame.qq.com/live/3954_248479175.flv
+https://txpcdn-direct.liveplay.egame.qq.com/live/3954_336052518.flv
 #EXTINF:-1 group-title="收藏",国电-影3
 https://txpcdn-direct.liveplay.egame.qq.com/live/3954_314463407.flv
 #EXTINF:-1 group-title="收藏",国电-影4
