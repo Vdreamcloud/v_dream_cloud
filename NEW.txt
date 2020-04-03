@@ -394,42 +394,42 @@ http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8
 https://d1--cn-gotcha03.bilivideo.com/live-bvc//live_682447_12851111.flv?sigparams=cdn&cdn=
 
 
-#EXTINF:-1 group-title="中央台备用1",CCTV1
+#EXTINF:-1 group-title="中央台备用",CCTV1
 http://121.31.30.91:8081/ysten-business/live/cctv-1/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV2
+#EXTINF:-1 group-title="中央台备用",CCTV2
 http://121.31.30.91:8081/ysten-business/live/cctv-2/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV3
+#EXTINF:-1 group-title="中央台备用",CCTV3
 http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV4
+#EXTINF:-1 group-title="中央台备用",CCTV4
 http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV5
+#EXTINF:-1 group-title="中央台备用",CCTV5
 http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV5+
+#EXTINF:-1 group-title="中央台备用",CCTV5+
 http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv5phd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV6
+#EXTINF:-1 group-title="中央台备用",CCTV6
 http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV7
+#EXTINF:-1 group-title="中央台备用",CCTV7
 http://121.31.30.91:8081/ysten-business/live/cctv-7/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV8
+#EXTINF:-1 group-title="中央台备用",CCTV8
 http://121.31.30.91:8081/ysten-business/live/cctv-8/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV9
+#EXTINF:-1 group-title="中央台备用",CCTV9
 http://121.31.30.91:8081/ysten-business/live/cctv-9/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV10
+#EXTINF:-1 group-title="中央台备用",CCTV10
 http://121.31.30.91:8081/ysten-business/live/cctv-10/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV11
+#EXTINF:-1 group-title="中央台备用",CCTV11
 http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV12
+#EXTINF:-1 group-title="中央台备用",CCTV12
 http://121.31.30.91:8081/ysten-business/live/cctv-12/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV13
+#EXTINF:-1 group-title="中央台备用",CCTV13
 http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV14
+#EXTINF:-1 group-title="中央台备用",CCTV14
 http://121.31.30.91:8081/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CCTV15
+#EXTINF:-1 group-title="中央台备用",CCTV15
 http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
-#EXTINF:-1 group-title="中央台备用1",CHC高清电影
+#EXTINF:-1 group-title="中央台备用",CHC高清电影
 rtmp://58.200.131.2:1935/livetv/chchd
-#EXTINF:-1 group-title="中央台备用1",CHC家庭电影
+#EXTINF:-1 group-title="中央台备用",CHC家庭电影
 rtmp://58.200.131.2:1935/livetv/chctv
-#EXTINF:-1 group-title="中央台备用1",CHC动作电影
+#EXTINF:-1 group-title="中央台备用",CHC动作电影
 rtmp://58.200.131.2:1935/livetv/chcatv
 
