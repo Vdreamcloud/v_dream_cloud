@@ -357,39 +357,39 @@ http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/150/index.m3u8?ms
 #EXTINF:-1 group-title="轮播",电视剧-仙剑
 http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5102010221/150/index.m3u8?msisdn=20200404125206fae30d5f6d5d41ed8d9c5199f11b5a3f&mdspid=&spid=800033&netType=4&sid=5500462695&pid=2028597139&timestamp=20200404125206&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=639528386&ParentNodeID=-99&assertID=5500462695&client_ip=113.100.176.90&SecurityKey=20200404125206&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=85cf99074a4fdfd81fbf79264db18f5c
 #EXTINF:-1 group-title="轮播",爱奇艺_五星影院
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-经典港片
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-粤语电影
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-喜剧电影
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-好莱坞大片
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-怀旧剧场
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-黑帮电影
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-电影大片
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-动作电影
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-华语影院
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-周末影院
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-日韩影院
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_rihanyuanxian_1080p_t10/c16_lb_rihanyuanxian_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_rihanyuanxian_1080p_t10/c16_lb_rihanyuanxian_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-动画电影
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-怀旧动画
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",动画-哆啦A梦
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",动画-名侦探柯南
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",动画-奥特曼
-http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_aoteman_1080p_t10/c15_lb_aoteman_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_aoteman_1080p_t10/c15_lb_aoteman_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",动画-猫和老鼠
 https://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.flv
 #EXTINF:-1 group-title="轮播",动画-四驱兄弟
