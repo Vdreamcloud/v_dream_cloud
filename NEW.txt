@@ -340,48 +340,66 @@ https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.flv
 #EXTINF:-1 group-title="轮播",电影-速度与激情
 https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.flv
+#EXTINF:-1 group-title="轮播",电影-贺岁片
+http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100181836/150/index.m3u8?msisdn=20200404123905533d43b38dd64969b82a219dac15969d&mdspid=&spid=800033&netType=4&sid=5500246345&pid=2028597139&timestamp=20200404123905&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=625774662&ParentNodeID=-99&assertID=5500246345&client_ip=113.100.176.90&SecurityKey=20200404123905&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=5dd35df1c241b5dfad3698d4a530191a
+#EXTINF:-1 group-title="轮播",电影-成龙2
+http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/150/index.m3u8?msisdn=20200404130101c9d10b38ccaf497c9945b03c4380cb0f&mdspid=&spid=800033&netType=4&sid=5500462658&pid=2028597139&timestamp=20200404130101&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=639528181&ParentNodeID=-99&assertID=5500462658&client_ip=113.100.176.90&SecurityKey=20200404130101&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=763e12bdc745958f4206696d3c2875d9
+#EXTINF:-1 group-title="轮播",电影-周星驰2
+http://gslbmgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/150/index.m3u8?msisdn=2020040412592428cabeb4520e457d95600fc899755f5c&mdspid=&spid=800033&netType=4&sid=5500174492&pid=2028597139&timestamp=20200404125924&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=623338112&ParentNodeID=-99&assertID=5500174492&client_ip=113.100.176.90&SecurityKey=20200404125924&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=04db9c9aae3d890eb266642237a376d0
+#EXTINF:-1 group-title="轮播",电影-刘德华2
+http://gslbmgsplive.miguvideo.com/wd_r3/virtuallive/5102354855/150/index.m3u8?msisdn=20200404131153cf73efbcaf2342b2b630f365634832cd&mdspid=&spid=800033&netType=4&sid=5500861482&pid=2028597139&timestamp=20200404131153&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=659315648&ParentNodeID=-99&assertID=5500861482&client_ip=113.100.176.90&SecurityKey=20200404131153&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=d6d23e86a80b82e2092e988e5469bf01
+#EXTINF:-1 group-title="轮播",电影-张国荣
+http://gslbmgsplive.miguvideo.com/wd_r3/virtuallive/5102354727/150/index.m3u8?msisdn=20200404131419ce8dac7395944c40924956c925be807b&mdspid=&spid=800033&netType=4&sid=5500861477&pid=2028597139&timestamp=20200404131419&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=659315266&ParentNodeID=-99&assertID=5500861477&client_ip=113.100.176.90&SecurityKey=20200404131419&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=14a10fbbc284e2c11242e944dafe4559
+#EXTINF:-1 group-title="轮播",电影-古天乐
+http://gslbmgsplive.miguvideo.com/wd_r1/virtuallive/5101000744/150/index.m3u8?msisdn=202004041308182f15a024a2e5402f931cab0e25bbf1c6&mdspid=&spid=800033&netType=4&sid=5500273086&pid=2028597139&timestamp=20200404130818&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=627198610&ParentNodeID=-99&assertID=5500273086&client_ip=113.100.176.90&SecurityKey=20200404130818&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=42a42d3e648748d322fafef33e4a52a3
+#EXTINF:-1 group-title="轮播",电影-郭富城
+http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/150/index.m3u8?msisdn=20200404130424b15d9287f29041c1b7a4ff78591dd9ab&mdspid=&spid=800033&netType=4&sid=5500462669&pid=2028597139&timestamp=20200404130424&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=639528330&ParentNodeID=-99&assertID=5500462669&client_ip=113.100.176.90&SecurityKey=20200404130424&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=bf91fe07baacc955ccc2b9084b2a937b
+#EXTINF:-1 group-title="轮播",电视剧-仙剑
+http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5102010221/150/index.m3u8?msisdn=20200404125206fae30d5f6d5d41ed8d9c5199f11b5a3f&mdspid=&spid=800033&netType=4&sid=5500462695&pid=2028597139&timestamp=20200404125206&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=639528386&ParentNodeID=-99&assertID=5500462695&client_ip=113.100.176.90&SecurityKey=20200404125206&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=85cf99074a4fdfd81fbf79264db18f5c
 #EXTINF:-1 group-title="轮播",爱奇艺_五星影院
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-经典港片
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-粤语电影
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-喜剧电影
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-好莱坞大片
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-怀旧剧场
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-黑帮电影
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-电影大片
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-动作电影
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-华语影院
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-周末影院
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-日韩影院
-http://jcloudcdnct.inter.iqiyi.com/tslive/c16_lb_rihanyuanxian_1080p_t10/c16_lb_rihanyuanxian_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_rihanyuanxian_1080p_t10/c16_lb_rihanyuanxian_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-动画电影
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-怀旧动画
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
+#EXTINF:-1 group-title="轮播",动画-哆啦A梦
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
+#EXTINF:-1 group-title="轮播",动画-名侦探柯南
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
+#EXTINF:-1 group-title="轮播",动画-奥特曼
+http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c15_lb_aoteman_1080p_t10/c15_lb_aoteman_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",动画-猫和老鼠
 https://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.flv
 #EXTINF:-1 group-title="轮播",动画-四驱兄弟
 https://aldirect.rtmp.huya.com/huyalive/94525224-2472045388-10617354095687630848-2847687664-10057-A-0-1.flv
 #EXTINF:-1 group-title="轮播",动画-成龙历险记
 https://aldirect.hls.huya.com/huyalive/29169025-2686220626-11537229738510647296-2847699128-10057-A-0-1.flv
-#EXTINF:-1 group-title="轮播",动画-名侦探柯南
-https://txpcdn-direct.liveplay.egame.qq.com/live/3954_616512747.flv
 #EXTINF:-1 group-title="轮播",动画-名侦探柯南2
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c20_lb_mingzhentankenan_720p_t10/c20_lb_mingzhentankenan_720p_t10.m3u8
-#EXTINF:-1 group-title="轮播",动画-多啦A梦
+https://txpcdn-direct.liveplay.egame.qq.com/live/3954_616512747.flv
+#EXTINF:-1 group-title="轮播",动画-多啦A梦2
 http://aldirect.rtmp.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1.flv
-#EXTINF:-1 group-title="轮播",动画-哆啦A梦2
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",动画-怀旧动画
 https://d1--cn-gotcha03.bilivideo.com/live-bvc/live_439560522_25619801.flv?sigparams=pt&pt=
 #EXTINF:-1 group-title="轮播",犬夜叉
