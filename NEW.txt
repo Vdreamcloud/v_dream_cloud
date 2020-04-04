@@ -340,7 +340,7 @@ https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-
 https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.flv
 #EXTINF:-1 group-title="轮播",电影-速度与激情
 https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.flv
-#EXTINF:-1 group-title="轮播",爱奇艺_豆瓣高分
+#EXTINF:-1 group-title="轮播",爱奇艺_五星影院
 http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-经典港片
 http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
@@ -356,16 +356,18 @@ http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_huaijiujuc
 http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-电影大片
 http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播",电影-热播电视剧
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播",电影-家庭剧场
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播",电影-经典重温
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
-#EXTINF:-1 group-title="轮播",电影-五星影院
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
+#EXTINF:-1 group-title="轮播",电影-动作电影
+http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
+#EXTINF:-1 group-title="轮播",电影-华语影院
+http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_huayuyuanxian_1080p_t10/c16_lb_huayuyuanxian_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-周末影院
 http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+#EXTINF:-1 group-title="轮播",电影-日韩影院
+http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_rihanyuanxian_1080p_t10/c16_lb_rihanyuanxian_1080p_t10.m3u8
+#EXTINF:-1 group-title="轮播",电影-动画电影
+http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
+#EXTINF:-1 group-title="轮播",电影-怀旧动画
+http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_huanjiudongman_1080p_t10/c15_lb_huanjiudongman_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",动画-猫和老鼠
 https://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.flv
 #EXTINF:-1 group-title="轮播",动画-四驱兄弟
