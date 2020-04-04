@@ -355,7 +355,7 @@ http://47.240.60.73/migu.php?id=627198610
 #EXTINF:-1 group-title="轮播",电影-郭富城
 http://47.240.60.73/migu.php?id=639528330
 #EXTINF:-1 group-title="轮播",电视剧-仙剑
-http://47.240.60.73/migu.php?id=63952838662695&pid=2028597139&timestamp=20200404125206&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=639528386&ParentNodeID=-99&assertID=5500462695&client_ip=113.100.176.90&SecurityKey=20200404125206&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=85cf99074a4fdfd81fbf79264db18f5c
+http://47.240.60.73/migu.php?id=639528386
 #EXTINF:-1 group-title="轮播",爱奇艺_五星影院
 http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-经典港片
