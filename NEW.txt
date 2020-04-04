@@ -363,7 +363,7 @@ http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_huayuyuanx
 #EXTINF:-1 group-title="轮播",电影-周末影院
 http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-日韩影院
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_rihanyuanxian_1080p_t10/c16_lb_rihanyuanxian_1080p_t10.m3u8
+http://jcloudcdnct.inter.iqiyi.com/tslive/c16_lb_rihanyuanxian_1080p_t10/c16_lb_rihanyuanxian_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-动画电影
 http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_donghuadianying_1080p_t10/c16_lb_donghuadianying_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-怀旧动画
