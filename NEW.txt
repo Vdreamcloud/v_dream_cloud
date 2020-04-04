@@ -10,15 +10,15 @@ http://d1--cn-gotcha03.bilivideo.com/live-bvc/live_195404279_88732876.flv?cdn=cn
 #EXTINF:-1 group-title="收藏",电-影5
 https://txpcdn-direct.liveplay.egame.qq.com/live/3954_490905763.flv
 #EXTINF:-1 group-title="收藏",电-影6
-http://tx2play1.douyucdn.cn/live/8030529rrPv17cNH.flv?uuid=
+http://tx2play1.douyucdn.cn/live/8030529rqta0QYyT.flv?uuid=
 #EXTINF:-1 group-title="收藏",周口电-影
 http://dlhdl-cdn.zhanqi.tv/zqlive/80918_cr4oy.flv
 #EXTINF:-1 group-title="收藏",国电-影1
-https://txpcdn-direct.liveplay.egame.qq.com/live/3954_157023183.flv
-#EXTINF:-1 group-title="收藏",国电-影2
-https://txpcdn-direct.liveplay.egame.qq.com/live/3954_336052518.flv
-#EXTINF:-1 group-title="收藏",国电-影3
 https://txpcdn-direct.liveplay.egame.qq.com/live/3954_314463407.flv
+#EXTINF:-1 group-title="收藏",国电-影2
+https://txpcdn-direct.liveplay.egame.qq.com/live/3954_157023183.flv
+#EXTINF:-1 group-title="收藏",国电-影3
+https://txpcdn-direct.liveplay.egame.qq.com/live/3954_336052518.flv
 #EXTINF:-1 group-title="收藏",国电-影4
 https://txpcdn-direct.liveplay.egame.qq.com/live/3954_727243199.flv
 #EXTINF:-1 group-title="收藏",国电-影5
@@ -30,13 +30,13 @@ http://d1--cn-gotcha03.bilivideo.com/live-bvc//live_1465616_3696069.flv?cdn=cn-g
 #EXTINF:-1 group-title="收藏",国电-影8
 https://d1--cn-gotcha03.bilivideo.com/live-bvc//live_480788900_61909171.flv?cdn=cn-gotcha01&sigparams=&ptype=2
 #EXTINF:-1 group-title="收藏",粤语电影1
-http://tx2play1.douyucdn.cn/live/5033502rWnRpioJO.flv?uuid=
+http://tx2play1.douyucdn.cn/live/6566671rd32RHvnz.flv?uuid=
 #EXTINF:-1 group-title="收藏",粤语电影2
-http://tx2play1.douyucdn.cn/live/4167368rfKfTpEA5.flv?uuid=
+http://tx2play1.douyucdn.cn/live/5033502rWnRpioJO.flv?uuid=
 #EXTINF:-1 group-title="收藏",粤语电影3
-http://tx2play1.douyucdn.cn/live/2466104ri9LB7LRE.flv?uuid=
+http://tx2play1.douyucdn.cn/live/4167368rfKfTpEA5.flv?uuid=
 #EXTINF:-1 group-title="收藏",粤语电影4
-http://tx2play1.douyucdn.cn/live/6566671r3jcXo8gN.flv?uuid=
+http://tx2play1.douyucdn.cn/live/2466104ri9LB7LRE.flv?uuid=
 #EXTINF:-1 group-title="收藏",港电影1
 https://txpcdn-direct.liveplay.egame.qq.com/live/3954_389804816.flv
 #EXTINF:-1 group-title="收藏",港电影2
