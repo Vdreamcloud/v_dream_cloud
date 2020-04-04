@@ -44,7 +44,7 @@ http://d1--cn-gotcha03.bilivideo.com/live-bvc/live_88547185_8335137.flv?cdn=cn-g
 #EXTINF:-1 group-title="收藏",港电影3
 http://d1--cn-gotcha03.bilivideo.com/live-bvc/live_342827840_74242052.flv?expires=&sigparams=expires,ptype&ptype=2
 #EXTINF:-1 group-title="收藏",港电影4
-http://jvc.flashapp.cn/baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
+http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c16_lb_yueyuyuansheng_1080p_t10/c16_lb_yueyuyuansheng_1080p_t10.m3u8
 #EXTINF:-1 group-title="收藏",港电影5
 https://aldirect.hls.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.flv
 #EXTINF:-1 group-title="收藏",港电影6 (晚上电影)
