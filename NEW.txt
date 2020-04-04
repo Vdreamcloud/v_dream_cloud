@@ -341,21 +341,21 @@ https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-
 #EXTINF:-1 group-title="轮播",电影-速度与激情
 https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.flv
 #EXTINF:-1 group-title="轮播",电影-贺岁片
-http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100181836/150/index.m3u8?msisdn=20200404123905533d43b38dd64969b82a219dac15969d&mdspid=&spid=800033&netType=4&sid=5500246345&pid=2028597139&timestamp=20200404123905&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=625774662&ParentNodeID=-99&assertID=5500246345&client_ip=113.100.176.90&SecurityKey=20200404123905&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=5dd35df1c241b5dfad3698d4a530191a
+http://47.240.60.73/migu.php?id=625774662
 #EXTINF:-1 group-title="轮播",电影-成龙2
-http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/150/index.m3u8?msisdn=20200404130101c9d10b38ccaf497c9945b03c4380cb0f&mdspid=&spid=800033&netType=4&sid=5500462658&pid=2028597139&timestamp=20200404130101&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=639528181&ParentNodeID=-99&assertID=5500462658&client_ip=113.100.176.90&SecurityKey=20200404130101&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=763e12bdc745958f4206696d3c2875d9
+http://47.240.60.73/migu.php?id=639528181
 #EXTINF:-1 group-title="轮播",电影-周星驰2
-http://gslbmgsplive.miguvideo.com/wd_r3/virtuallive/5100144102/150/index.m3u8?msisdn=2020040412592428cabeb4520e457d95600fc899755f5c&mdspid=&spid=800033&netType=4&sid=5500174492&pid=2028597139&timestamp=20200404125924&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=623338112&ParentNodeID=-99&assertID=5500174492&client_ip=113.100.176.90&SecurityKey=20200404125924&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=04db9c9aae3d890eb266642237a376d0
+http://47.240.60.73/migu.php?id=623338112
 #EXTINF:-1 group-title="轮播",电影-刘德华2
-http://gslbmgsplive.miguvideo.com/wd_r3/virtuallive/5102354855/150/index.m3u8?msisdn=20200404131153cf73efbcaf2342b2b630f365634832cd&mdspid=&spid=800033&netType=4&sid=5500861482&pid=2028597139&timestamp=20200404131153&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=659315648&ParentNodeID=-99&assertID=5500861482&client_ip=113.100.176.90&SecurityKey=20200404131153&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=d6d23e86a80b82e2092e988e5469bf01
+http://47.240.60.73/migu.php?id=659315648
 #EXTINF:-1 group-title="轮播",电影-张国荣
-http://gslbmgsplive.miguvideo.com/wd_r3/virtuallive/5102354727/150/index.m3u8?msisdn=20200404131419ce8dac7395944c40924956c925be807b&mdspid=&spid=800033&netType=4&sid=5500861477&pid=2028597139&timestamp=20200404131419&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=659315266&ParentNodeID=-99&assertID=5500861477&client_ip=113.100.176.90&SecurityKey=20200404131419&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=14a10fbbc284e2c11242e944dafe4559
+http://47.240.60.73/migu.php?id=659315266
 #EXTINF:-1 group-title="轮播",电影-古天乐
-http://gslbmgsplive.miguvideo.com/wd_r1/virtuallive/5101000744/150/index.m3u8?msisdn=202004041308182f15a024a2e5402f931cab0e25bbf1c6&mdspid=&spid=800033&netType=4&sid=5500273086&pid=2028597139&timestamp=20200404130818&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=627198610&ParentNodeID=-99&assertID=5500273086&client_ip=113.100.176.90&SecurityKey=20200404130818&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=42a42d3e648748d322fafef33e4a52a3
+http://47.240.60.73/migu.php?id=627198610
 #EXTINF:-1 group-title="轮播",电影-郭富城
-http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5102010220/150/index.m3u8?msisdn=20200404130424b15d9287f29041c1b7a4ff78591dd9ab&mdspid=&spid=800033&netType=4&sid=5500462669&pid=2028597139&timestamp=20200404130424&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=639528330&ParentNodeID=-99&assertID=5500462669&client_ip=113.100.176.90&SecurityKey=20200404130424&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=bf91fe07baacc955ccc2b9084b2a937b
+http://47.240.60.73/migu.php?id=639528330
 #EXTINF:-1 group-title="轮播",电视剧-仙剑
-http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5102010221/150/index.m3u8?msisdn=20200404125206fae30d5f6d5d41ed8d9c5199f11b5a3f&mdspid=&spid=800033&netType=4&sid=5500462695&pid=2028597139&timestamp=20200404125206&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=639528386&ParentNodeID=-99&assertID=5500462695&client_ip=113.100.176.90&SecurityKey=20200404125206&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=85cf99074a4fdfd81fbf79264db18f5c
+http://47.240.60.73/migu.php?id=63952838662695&pid=2028597139&timestamp=20200404125206&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=639528386&ParentNodeID=-99&assertID=5500462695&client_ip=113.100.176.90&SecurityKey=20200404125206&promotionId=&mvid=&mcid=&mpid=&playurlVersion=WX-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=85cf99074a4fdfd81fbf79264db18f5c
 #EXTINF:-1 group-title="轮播",爱奇艺_五星影院
 http://baiducdnct-gd.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 #EXTINF:-1 group-title="轮播",电影-经典港片
