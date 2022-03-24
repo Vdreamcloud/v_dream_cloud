@@ -1,0 +1,16 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+proxies:
+  - name: 一键连
+    type: http
+    server: jc.ap.fastqvpn.com
+    port: "29980"
+    username: "442993652168396800"
+    password: 2ef91648-089f-4c81-b34d-06f072ec51dd
+    tls: true
+    skip-cert-verify: true
+    _index: 0
