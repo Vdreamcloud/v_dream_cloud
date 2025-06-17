@@ -55,8 +55,8 @@
     "appName": "联系人",
     "packageName": "com.android.contacts",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAABc0lEQVR42uzVA4ydQRRA4VsHtRnVtsI/qO2gto2wbozatm3btm278emaMy+Z2ftetF/MMx5Jk3RUoTtTWcuy8CW68JN4A8KTOExytfUTd0lpmXZiKiaBZqI6/zDZqBnpj01Tvch8bLbqRW5hV18r8g27eVqRbdj9IodOZByhjNOJNCSUx5HYemime+PNJupE6mB3mQqig2OYPKCv6GEEqf0jEE0U4Q0p3RRtTCCl76LNOJdFkZgLTIvEXGCQdmYQJlW1M8tI7bd2pJDxHbujnWmGyW0y6mYmYvKXcpIMzTnGEzr5ZjZh1lISkI0rxLpOF7/MXcxGSxxmkdQFerpH8mOzkDoibCS13QSumVr4mEEJt0wpfDynl+tDcxcf6yjiksnFTnx8ootLJgvL8fFD3NCbt7jaL64ox0bcTBAfDOWNQ6SR/7c2gTcK81AJHdT5qEdxGpvVlBYtBMzgFcmdoa1oIwctGMkc9jGLLvyfHoXGjQIAqstg/KoOUiwAAAAASUVORK5CYII=",
-    "iconColor": "#ff166ed2",
-    "contributorName": "fankes",
+    "iconColor": "#ff30d391",
+    "contributorName": "v",
     "isEnabled": true,
     "isEnabledAll": false
   },
@@ -64,8 +64,8 @@
     "appName": "电话",
     "packageName": "com.android.incallui",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAABc0lEQVR42uzVA4ydQRRA4VsHtRnVtsI/qO2gto2wbozatm3btm278emaMy+Z2ftetF/MMx5Jk3RUoTtTWcuy8CW68JN4A8KTOExytfUTd0lpmXZiKiaBZqI6/zDZqBnpj01Tvch8bLbqRW5hV18r8g27eVqRbdj9IodOZByhjNOJNCSUx5HYemime+PNJupE6mB3mQqig2OYPKCv6GEEqf0jEE0U4Q0p3RRtTCCl76LNOJdFkZgLTIvEXGCQdmYQJlW1M8tI7bd2pJDxHbujnWmGyW0y6mYmYvKXcpIMzTnGEzr5ZjZh1lISkI0rxLpOF7/MXcxGSxxmkdQFerpH8mOzkDoibCS13QSumVr4mEEJt0wpfDynl+tDcxcf6yjiksnFTnx8ootLJgvL8fFD3NCbt7jaL64ox0bcTBAfDOWNQ6SR/7c2gTcK81AJHdT5qEdxGpvVlBYtBMzgFcmdoa1oIwctGMkc9jGLLvyfHoXGjQIAqstg/KoOUiwAAAAASUVORK5CYII=",
-    "iconColor": "#ff166ed2",
-    "contributorName": "fankes",
+    "iconColor": "#ff30d391",
+    "contributorName": "v",
     "isEnabled": true,
     "isEnabledAll": false
   },
