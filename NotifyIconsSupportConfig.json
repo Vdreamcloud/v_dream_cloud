@@ -1038,7 +1038,7 @@
     "packageName": "statusbar.lyric",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAABwUlEQVR42uXUAwzeUBhG4S/O7GiMZtu2bdu2bdu2bSuYrWC27TOv66/e3t75aZw3ObX8f0hONfoxlbUsYwQ5xSTS0JmtYPctQk46kthrYBKBWRGAlWTRC0RnEIBSBGAQkd0mKnIWXEXgCCVFHU0BXEcAeqgmdoBWRD3DQvAUgZ5OiZ6gH1HKkBOMRKCp/tNQj1widuBEezAWgTGBEgm4YzQCafwj48BwZJLYEYPbxiOQwB5pDOYjtLdHFqNiP0PJSWVaKkb22iOPcXKP4hpfVjz1KVwgg9bnW9iaNsdJQc1/RDtrOpXQ1mr/iEap/05yakcW/orIDhORSuqRTYRWOWhkkHpkNqh+VHasJLR11nQITooGTFTDyXD1OwsXyOSXSMUznNSz5rFw9pAytkRTLuEsnVjYj4oLDCUfVWjDZlSskx/RDvOgpj0Sj6eYdp1IYsckTJsovkiDaYXFH5MwaZoEQizOYcodEkhglMOUchIcQzChioTGJrwaLs5YgBdDRA090fOaJqKOljzArcPkFndIyQrUPaMnYUUHuZmJikmkEi9ITE9OEsxBhpNGzCAx5ejBOBaz4/Oxln5UIJb8Zz4AmplcipH/XWQAAAAASUVORK5CYII=",
     "contributorName": "fankes",
-    "isEnabled": false,
+    "isEnabled": true,
     "isEnabledAll": false
   },
   {
