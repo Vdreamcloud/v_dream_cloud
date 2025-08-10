@@ -151,6 +151,15 @@
     "isEnabledAll": false
   },
   {
+    "appName": "Car+ 车联",
+    "packageName": "com.oplus.ocar",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAQAAAD/5HvMAAACPklEQVR42u3UA8wcTRzH8V/02nFe27Ztq7Zt2whq27Zt225Yuw3qfst7sLOXW8z10X4m1vytECKRSCTC91SiBws5gheHmE17yvGdkoE8zCSomeSRTZRgKWEtpYTsoCO2dFFYPMhobJrAQwqOl1iBbat4SUHRl2Toq2D4gmT5QkEwkmQZKf/4BTfnaMUHPCIPeJh3acU53PwivxiNaRHvyCfeYRmm8fKHNzBN5G4FwD1MxPS5/KAFpq8UEF9h6ifvuJNLOPVXCAzA6TL3yCsqhBtDE39gaiB3PMVXjncAp7UKiQ04HTX+fUoS/fGipkKiEV70Fyfx4imFxLN4cVosIbERsoBxJLZG1CGxP2UBf5NYG/EZiexhvqW3h0S+k8RuMos1uo6faXLjTSGjTLrxf2N+UCpaknHMI8l/ZLTflIp72UtG2819iuFDMoPPFEMxnErxisRfDMS2YRSReJE6OFVQDN1IR2lQlFPYcpDPlQbp9VYM80mrjhzYjg375UAp0pofL6AX5cCL2PCVHHjFU0ByQWPCaiwXXitk4CPCelPyUSFzhizP0SYZvM8QMvAUYT0lAyQIyLhDD/AYr/AxJZhKWNOpzse8wmM8YNwhI6BRZAZjFUMTMoO2iqEgmUExxfAWZ8hoZ3hLqahNRqut9JhLRporJ5qQkZpYDSgKSJbc3oCigKKA8hHPDlnCFuIpIifeJZ7WsoSexPO6TNTAlSzC3f9yx2cs4SipttBTltGaHaQ6wmIKKhKJRCLxXQWFE9/ti3BcsAAAAABJRU5ErkJggg==",
+    "iconColor": "#ff615ee2",
+    "contributorName": "v",
+    "isEnabled": true,
+    "isEnabledAll": false
+  }
+  {
     "appName": "时钟",
     "packageName": "com.coloros.alarmclock",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAABU0lEQVR42u3YIWzCQBSH8fMJXpEsaII5hZvCO7xBQPBBtR7f5DBofAUOi65ZhsFV101+m5i5LL32395lhs8nv9wGx3tnEvSKGXuOnLhw5cqFE0f2zEycsOTcaetOjh0LOPrkBkLMcSg55iqx5IHag6VCrBjaqi+RM6a8D7FjbLsuYk24J2fOPAm3DhELasJtzE9sCFezaEccHZnf6Mq1ERaiIWD1c+iIC5xDR4SzcIiOHP4it+jIzfgxhegITH1kmwTZ+sgxCVL4yCkJUvrIJQlS+chVRDL61AxCeJOYZtCfi8wYgan0f7zOlPpHWGcK/cuoM9vAtaIwTPiirWngghSZz/AFKV/1PsPEGN6Vq94ypA/xBxhHzJw+SOhZfSRSc/pwp1az0MdUtfX/D9zpV4f0S1D6dS79YppixdahLPhYkGFjPnsUlFQ0NFSUFMKzh9Krb7NfP9BqtPabAAAAAElFTkSuQmCC",
